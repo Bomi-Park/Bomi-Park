@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<h3 align="center">Tech Tools</h3>
+<h3 align="center">Tech Stacks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp 
