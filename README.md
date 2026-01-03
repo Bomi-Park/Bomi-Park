@@ -66,4 +66,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+도움받은 블로그들:
+- https://velog.io/@leemember/%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0-README.md
+- https://velog.io/@hyeinisfree/github-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+- https://velog.io/@ajaajas/Github-Profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C
+- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 -->
