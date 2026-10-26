@@ -8,7 +8,7 @@
 
 </a>
 
-<div align="center">🔭 I’m Ph.D. candidate in astronomy</div>
+<div align="center">🔭 I’m Ph.D in astronomy</div>
 <div align="center">🌌 Galaxy Clusters · Large Surveys · Observations</div>
 <br>
 
